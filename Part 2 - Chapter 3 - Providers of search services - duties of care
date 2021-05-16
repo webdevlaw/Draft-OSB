@@ -1,0 +1,436 @@
+#### CHAPTER 3
+
+#### PROVIDERS OF SEARCH SERVICES: DUTIES OF CARE
+
+```
+Search services: duties of care
+```
+**17 Providers of search services: duties of care**
+
+```
+(1) Subsections (2) and (3) apply to determine which of the duties set out in this
+Chapter apply in relation to a particular regulated search service.
+```
+```
+(2) All providers of regulated search services must comply with the following
+duties in relation to each such service—
+(a) the illegal content risk assessment duty (see section 19(1)),
+(b) each of the illegal content duties (see section 21),
+(c) the duty to protect rights to freedom of expression and privacy (see
+section 23),
+(d) the duties about reporting and redress set out in—
+(i) section 24(2)(a), and
+(ii) section 24(3) and (5) so far as relating to subsection (4)(a)(i), (b)
+or (c)(i) of that section, and
+(e) each of the record-keeping and review duties (see section 25).
+(3) In addition, all providers of regulated search services that are likely to be
+accessed by children must comply with the following duties in relation to each
+such service—
+(a) the children’s risk assessment duty (see section 19(2)),
+(b) each of the duties to protect children’s online safety (see section 22),
+and
+(c) the duties about reporting and redress set out in—
+(i) section 24(2)(b), and
+(ii) section 24(3) and (5) so far as relating to subsection (4)(a)(ii) or
+(c)(ii) of that section.
+```
+**18 Duties of care: supplementary**
+
+```
+(1) A duty set out in this Chapter which must be complied with in relation to a
+search service extends only to—
+(a) the design and operation of the service in the United Kingdom, or
+(b) in the case of a duty that is expressed to apply in relation to users of a
+service, the design and operation of the service as it affects United
+Kingdom users of the service.
+```
+```
+(2) A duty set out in this Chapter which must be complied with in relation to a
+search service does not extend to—
+(a) content present on the website of a recognised news publisher (see
+section 40), or
+(b) content, that may be encountered via search results, that—
+(i) reproduces in full an article or written item that was originally
+published by a recognised news publisher (and is not a
+screenshot or photograph of that article or item or of part of it),
+(ii) is a recording of an item originally broadcast by a recognised
+news publisher (and is not an excerpt of such a recording), or
+(iii) is a link to a full article or written item originally published by
+a recognised news publisher, or to a full recording of an item
+originally broadcast by a recognised news publisher.
+```
+```
+(3) Where duties in this Chapter must be complied with in relation to a search
+engine forming part of a user-to-user service (see section 5(6)), the references
+in subsections (1) and (2) to a search service are to be read as references to the
+search engine.
+```
+```
+Risk assessments
+```
+**19 Risk assessment duties**
+
+```
+All services
+```
+```
+(1) The “illegal content risk assessment duty” is a duty—
+(a) to carry out an illegal content risk assessment at a time set out in section
+20,
+(b) to keep an illegal content risk assessment up to date, including when
+OFCOM make any significant change to a risk profile that relates to
+services of the kind in question, and
+(c) to carry out a further illegal content risk assessment before making any
+significant change to any aspect of the design or operation of a service
+to which such an assessment is relevant.
+```
+```
+Services likely to be accessed by children
+```
+```
+(2) The “children’s risk assessment duty” is a duty—
+(a) to carry out a children’s risk assessment at a time set out in section 20,
+(b) to keep a children’s risk assessment up to date, including when
+OFCOM make any significant change to a risk profile that relates to
+services of the kind in question, and
+(c) to carry out a further children’s risk assessment before making any
+significant change to any aspect of the design or operation of a service
+to which such an assessment is relevant.
+```
+```
+Definitions
+```
+```
+(3) An “illegal content risk assessment” of a service of a particular kind means an
+assessment to identify, assess and understand such of the following as appear
+to be appropriate, taking into account the risk profile that relates to services of
+that kind—
+(a) the level of risk of individuals who are users of the service encountering
+the following in or via search results—
+(i) terrorism content,
+(ii) CSEA content,
+(iii) priority illegal content, and
+(iv) other illegal content,
+taking into account (in particular) risks presented by algorithms used
+by the service, and the way that the service indexes, organises and
+presents search results;
+(b) the level of risk of functionalities of the service facilitating individuals
+encountering illegal content in or via search results, identifying and
+assessing those functionalities that present higher levels of risk;
+(c) the nature, and severity, of the harm that might be suffered by
+individuals from the matters identified in accordance with paragraphs
+(a) and (b);
+(d) how the design and operation of the service (including the business
+model, governance and other systems and processes) may reduce or
+increase the risks identified.
+```
+```
+(4) A “children’s risk assessment” of a service of a particular kind means an
+assessment to identify, assess and understand such of the following as appear
+to be appropriate, taking into account the risk profile that relates to services of
+that kind—
+(a) the level of risk of children who are users of the service encountering
+the following in or via search results—
+(i) each kind of primary priority content that is harmful to children
+(with each kind separately assessed),
+(ii) each kind of priority content that is harmful to children (with
+each kind separately assessed), and
+(iii) non-designated content that is harmful to children,
+giving separate consideration to children in different age groups, and
+taking into account (in particular) risks presented by algorithms used
+by the service and the way that the service indexes, organises and
+presents search results;
+(b) the level of risk of functionalities of the service facilitating children
+encountering content that is harmful to children in or via search results,
+identifying and assessing those functionalities that present higher
+levels of risk;
+(c) the nature, and severity, of the harm that might be suffered by children
+from the matters identified in accordance with paragraphs (a) and (b),
+giving separate consideration to children in different age groups;
+(d) how the design and operation of the service (including the business
+model, governance and other systems and processes) may reduce or
+increase the risks identified.
+```
+```
+(5) In this section references to risk profiles are to risk profiles included in
+OFCOM’s guidance about risk assessments (see section 62).
+```
+**20 Timing of risk assessment under section 19**
+
+```
+(1) In the case of a regulated search service which is in operation immediately
+before the relevant day, a risk assessment must be carried out within the period
+of three months beginning with that day, unless extra time is allowed by
+agreement with OFCOM.
+```
+```
+(2) In the case of a regulated search service which begins operating on or after the
+relevant day, a risk assessment must be carried out before United Kingdom
+users are able to access the service.
+```
+```
+(3) In the case of a search service which, having previously not been a regulated
+search service, becomes a regulated search service, a risk assessment must be
+carried out—
+(a) before United Kingdom users are able to access the service, or
+(b) if such users were already able to access the service, as soon as
+reasonably practicable after the service becomes a regulated service.
+```
+```
+(4) In this section “the relevant day” means—
+(a) if OFCOM’s report of their risk assessment under section 61 and
+OFCOM’s guidance about risk assessments under section 62 are first
+published on the same day, that day, or
+(b) if that report and that guidance are first published on different days, the
+later of those days.
+```
+```
+(5) In this section “risk assessment” means a risk assessment under section 19(1)(a)
+or (2)(a).
+```
+```
+Safety duties
+```
+**21 Safety duties about illegal content**
+
+```
+(1) The “illegal content duties” in relation to search services are the duties set out
+in this section.
+```
+```
+(2) A duty, in relation to a service, to take proportionate steps to mitigate and
+effectively manage the risks of harm to individuals, as identified in the most
+recent illegal content risk assessment of the service.
+
+(3) A duty to operate a service using proportionate systems and processes
+designed to minimise the risk of individuals encountering the following in or
+via search results—
+(a) priority illegal content;
+(b) other illegal content that the provider knows about (having been
+alerted to it by another person or become aware of it in any other way).
+```
+```
+(4) A duty to specify clearly in a publicly available statement details of policies
+and procedures designed to protect individuals from illegal content.
+```
+```
+(5) A duty to apply the policies and procedures mentioned in that statement
+consistently.
+```
+```
+(6) In determining whether a step, system or process is proportionate for the
+purposes of this section, the following must be taken into account—
+(a) all the findings of the most recent illegal content risk assessment
+(including as to levels of risk and as to nature, and severity, of potential
+harm to individuals), and
+(b) the size and capacity of the provider of a service.
+```
+```
+(7) In this section “illegal content risk assessment” has the meaning given by
+section 19(3).
+```
+```
+(8) See also, in relation to duties under this section, section 23(2) (duty about rights
+to freedom of expression and privacy).
+```
+**22 Safety duties for services likely to be accessed by children**
+
+```
+(1) The “duties to protect children’s online safety” in relation to search services are
+the duties set out in this section.
+```
+```
+(2) A duty, in relation to a service, to take proportionate steps to—
+(a) mitigate and effectively manage the risks of harm to children in
+different age groups, as identified in the most recent children’s risk
+assessment of the service, and
+(b) mitigate the impact of harm arising to children in different age groups
+from content that is harmful to children encountered in or via search
+results of the service.
+```
+```
+(3) A duty to operate a service using proportionate systems and processes
+designed to—
+(a) minimise the risk of children of any age encountering primary priority
+content that is harmful to children in or via search results;
+(b) minimise the risk of children in age groups judged to be at risk of harm
+from other content that is harmful to children (or from a particular kind
+of such content) encountering it in or via search results.
+```
+```
+(4) A duty to specify clearly in a publicly available statement details of policies
+and procedures designed to protect children from—
+(a) primary priority content that is harmful to children (with each kind of
+primary priority content separately covered),
+(b) priority content that is harmful to children (with each kind of priority
+content separately covered), and
+(c) non-designated content that is harmful to children.
+(5) A duty to apply the policies and procedures mentioned in that statement
+consistently.
+```
+```
+(6) In determining whether a step, system or process is proportionate for the
+purposes of this section, the following must be taken into account—
+(a) all the findings of the most recent children’s risk assessment (including
+as to levels of risk and as to nature, and severity, of potential harm to
+children), and
+(b) the size and capacity of the provider of a service.
+```
+```
+(7) So far as a duty in this section relates to non-designated content that is harmful
+to children, the duty is to be taken to extend only to addressing risks of harm
+from the kinds of such content that have been identified in the most recent
+children’s risk assessment (if any have been identified).
+```
+```
+(8) The reference in subsection (3)(b) to children in age groups judged to be at risk
+of harm from content that is harmful to children is a reference to children in age
+groups judged to be at risk of such harm as assessed by the provider of a
+service in the most recent children’s risk assessment of the service.
+```
+```
+(9) The duties in this section extend only to such parts of a service as it is possible
+for children to access.
+Section 26(3) applies for the purposes of this subsection as it applies for the
+purposes of an assessment under section 26.
+```
+```
+(10) In this section “children’s risk assessment” has the meaning given by section
+19(4).
+```
+```
+(11) See also, in relation to duties under this section, section 23(2) (duty about rights
+to freedom of expression and privacy).
+```
+```
+Freedom of expression and privacy
+```
+**23 Duty about rights to freedom of expression and privacy**
+
+```
+(1) The “duty to protect rights to freedom of expression and privacy” in relation to
+search services is the duty set out in this section.
+```
+```
+(2) A duty to have regard to the importance of—
+(a) protecting the rights of users and interested persons to freedom of
+expression within the law, and
+(b) protecting users from unwarranted infringements of privacy,
+when deciding on, and implementing, safety policies and procedures.
+```
+```
+(3) In this section “safety policies and procedures” means policies and procedures
+designed to secure compliance with—
+(a) any of the Chapter 3 safety duties, or
+(b) any of the duties set out in section 24 (reporting and redress).
+```
+```
+User reporting and redress
+```
+**24 Reporting and redress duties**
+
+```
+(1) The duties about reporting and redress in relation to search services, as
+referred to in section 17, are the duties set out in this section.
+
+
+(2) A duty to operate a service using systems and processes that allow users and
+affected persons to easily report content of the following kinds encountered in
+or via search results—
+(a) content which they consider to be illegal content;
+(b) content which they consider to be content that is harmful to children.
+```
+```
+(3) A duty to operate a complaints procedure in relation to a service that—
+(a) allows for complaints of the kinds mentioned in subsection (4) to be
+made,
+(b) provides for appropriate action to be taken by the provider of the
+service in response to such complaints, and
+(c) is easy to access, easy to use (including by children) and transparent.
+```
+```
+(4) The kinds of complaints are—
+(a) complaints by users and affected persons about content of the
+following kinds encountered in or via search results—
+(i) content which they consider to be illegal content;
+(ii) content which they consider to be content that is harmful to
+children;
+(b) complaints by users and affected persons if they consider that—
+(i) the provider is not complying with a Chapter 3 safety duty that
+applies in relation to the service;
+(ii) the provider is not complying with the duty set out in section
+23;
+(c) complaints by an interested person if—
+(i) the provider of a search service takes steps in order to comply
+with duties under section 21 (safety duties about illegal content)
+that result in content relating to that interested person no longer
+appearing in search results or being given a lower priority in
+search results;
+(ii) the provider of a search service takes steps in order to comply
+with duties under section 22 (safety duties for services likely to
+be accessed by children) that result in content relating to that
+interested person no longer appearing in search results or being
+given a lower priority in search results.
+```
+```
+(5) A duty to make the policies and procedures that govern the handling and
+resolution of complaints as mentioned in subsection (4) publicly available and
+easily accessible (including to children).
+```
+```
+(6) In this section “affected person” means a person, other than a user of the service
+in question, who is in the United Kingdom and who is—
+(a) the subject of the content,
+(b) a member of a class or group of people with a certain characteristic (or
+combination of characteristics) targeted by the content,
+(c) a parent of, or other adult with responsibility for, a child who is a user
+of the service or is the subject of the content, or
+(d) an adult providing assistance in using the service to another adult who
+requires such assistance, where that other adult is a user of the service
+or is the subject of the content.
+```
+```
+(7) See also, in relation to duties under this section, section 23(2) (duty about rights
+to freedom of expression and privacy).
+
+Record-keeping and review
+```
+**25 Record-keeping and review duties**
+
+```
+(1) The “record-keeping and review duties” in relation to search services are the
+duties set out in this section.
+```
+```
+(2) A duty to make and keep a written record of every risk assessment carried out
+under section 19.
+```
+```
+(3) A duty to make and keep a written record of any steps taken to comply with a
+relevant duty other than steps which—
+(a) are described in a code of practice and recommended for the purposes
+of compliance with the duty in question, and
+(b) apply in relation to the provider and the service in question.
+```
+```
+(4) A duty to review compliance with the relevant duties in relation to a service—
+(a) regularly, and
+(b) as soon as reasonably practicable after making any significant change
+to any aspect of the design or operation of the service.
+```
+```
+(5) Where OFCOM consider it to be appropriate, OFCOM may, in relation to a
+particular search service, exempt the provider of that service from—
+(a) the duty set out in subsection (2),
+(b) the duty set out in subsection (3), or
+(c) the duties set out in subsections (2) and (3).
+```
+```
+(6) OFCOM must publish details of any exemption under subsection (5).
+```
+```
+(7) In this section—
+“code of practice” means a code of practice published under section 34;
+“relevant duties” means—
+(a) the Chapter 3 safety duties, and
+(b) the duties set out in section 24 (reporting and redress).
