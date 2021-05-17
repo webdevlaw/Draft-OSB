@@ -1,36 +1,28 @@
 
 ## CONTENTS
 
-#### PART 1
-
-#### OVERVIEW AND KEY DEFINITIONS
+### PART 1
+### OVERVIEW AND KEY DEFINITIONS
 
 ```
-1Overview of Act
+1 Overview of Act
 2 Meaning of “user-to-user service” and “search service”
 3 Meaning of “regulated service”
 ```
-```
-PART 2
-```
-```
-PROVIDERS OF REGULATED SERVICES: DUTIES OF CARE
-```
-```
-CHAPTER 1
-```
-```
-INTRODUCTION
-```
+
+### PART 2
+### PROVIDERS OF REGULATED SERVICES: DUTIES OF CARE
+
+#### CHAPTER 1
+#### INTRODUCTION
+
 ```
 4 Overview of Part 2
 ```
-```
-CHAPTER 2
-```
-```
-PROVIDERS OF USER-TO-USER SERVICES: DUTIES OF CARE
-```
+
+#### CHAPTER 2
+#### PROVIDERS OF USER-TO-USER SERVICES: DUTIES OF CARE
+
 ```
 User-to-user services: duties of care
 5 Providers of user-to-user services: duties of care
@@ -63,12 +55,10 @@ User reporting and redress
 Record-keeping and review
 16 Record-keeping and review duties
 ```
-```
-CHAPTER 3
-```
-```
-PROVIDERS OF SEARCH SERVICES: DUTIES OF CARE
-```
+
+#### CHAPTER 3
+#### PROVIDERS OF SEARCH SERVICES: DUTIES OF CARE
+
 ```
 Search services: duties of care
 17 Providers of search services: duties of care
@@ -96,12 +86,10 @@ User reporting and redress
 Record-keeping and review
 25 Record-keeping and review duties
 ```
-```
-CHAPTER 4
-```
-```
-ASSESSMENT ABOUT ACCESS BY CHILDREN
-```
+
+#### CHAPTER 4
+#### ASSESSMENT ABOUT ACCESS BY CHILDREN
+
 ```
 26 Assessment about access by children
 27 Timing of assessment under section 26
@@ -111,7 +99,6 @@ ASSESSMENT ABOUT ACCESS BY CHILDREN
 _Online Safety Bill_ iii
 
 #### CHAPTER 5
-
 #### CODES OF PRACTICE
 
 ```
@@ -126,12 +113,10 @@ _Online Safety Bill_ iii
 37 Effect of codes of practice
 38 Duties and the first codes of practice
 ```
-```
-CHAPTER 6
-```
-```
-INTERPRETATION OF PART 2
-```
+
+#### CHAPTER 6
+#### INTERPRETATION OF PART 2
+
 ```
 39 Meaning of “regulated content”, “user-generated content” and “news
 publisher content”
@@ -145,28 +130,21 @@ publisher content”
 47 Regulations under sections 45 and 46
 48 Meaning of “Chapter 2 safety duty” and “Chapter 3 safety duty”
 ```
-```
-PART 3
-```
-```
-OTHER DUTIES OF SERVICE PROVIDERS
-```
-```
-CHAPTER 1
-```
-```
-TRANSPARENCY REPORTS
-```
+
+### PART 3
+### OTHER DUTIES OF SERVICE PROVIDERS
+
+#### CHAPTER 1
+#### TRANSPARENCY REPORTS
+
 ```
 49 Transparency reports by service providers
 50 Transparency reports: guidance
 ```
-```
-CHAPTER 2
-```
-```
-FEES
-```
+
+#### CHAPTER 2
+#### FEES
+
 ```
 51 Duty to notify OFCOM
 52 Duty to pay fees
@@ -177,12 +155,10 @@ FEES
 
 iv _Online Safety Bill_
 
-#### PART 4
-
-#### OFCOM'S POWERS AND DUTIES IN RELATION TO REGULATED SERVICES
+### PART 4
+### OFCOM'S POWERS AND DUTIES IN RELATION TO REGULATED SERVICES
 
 #### CHAPTER 1
-
 #### GENERAL DUTIES
 
 ```
@@ -190,33 +166,26 @@ iv _Online Safety Bill_
 57 Duties of OFCOM in relation to strategic priorities
 58 Duty to carry out impact assessments
 ```
-```
-CHAPTER 2
-```
-```
-REGISTER OF CATEGORIES OF SERVICES
-```
+
+#### CHAPTER 2
+#### REGISTER OF CATEGORIES OF SERVICES
+
 ```
 59 Register of categories of services
 60 OFCOM’s duty to maintain register
 ```
-```
-CHAPTER 3
-```
-```
-RISK ASSESSMENTS
-```
+
+#### CHAPTER 3
+#### RISK ASSESSMENTS
+
 ```
 61 Risk assessments by OFCOM
 62 OFCOM’s guidance about risk assessments
 ```
-```
-CHAPTER 4
-```
-```
-USE OF TECHNOLOGY IN RELATION TO TERRORISM CONTENT AND CHILD SEXUAL
-EXPLOITATION AND ABUSE CONTENT
-```
+
+#### CHAPTER 4
+#### USE OF TECHNOLOGY IN RELATION TO TERRORISM CONTENT AND CHILD SEXUAL EXPLOITATION AND ABUSE CONTENT
+
 ```
 63 Use of technology warning notice
 64 Use of technology notice: user-to-user service
@@ -226,12 +195,10 @@ EXPLOITATION AND ABUSE CONTENT
 68 Guidance about requiring use of technology
 69 Annual report about use of technology
 ```
-```
-CHAPTER 5
-```
-```
-INFORMATION
-```
+
+#### CHAPTER 5
+#### INFORMATION
+
 ```
 Information power
 70 Power to require information
@@ -263,12 +230,10 @@ Disclosure of information
 78 Provision of information to the Secretary of State
 79 Disclosure of information
 ```
-```
-CHAPTER 6
-```
-```
-ENFORCEMENT POWERS
-```
+
+#### CHAPTER 6
+#### ENFORCEMENT POWERS
+
 ```
 Provisional notices and confirmation decisions
 80 Provisional notice of enforcement action
@@ -308,12 +273,10 @@ vi _Online Safety Bill_
 Guidance
 97 Guidance about enforcement action
 ```
-```
-CHAPTER 7
-```
-```
-COMMITTEES, RESEARCH AND REPORTS
-```
+
+#### CHAPTER 7
+#### COMMITTEES, RESEARCH AND REPORTS
+
 ```
 98 Advisory committee on disinformation and misinformation
 99 Research about users’ experiences of regulated services
@@ -321,48 +284,37 @@ COMMITTEES, RESEARCH AND REPORTS
 101 OFCOM’s report about researchers’ access to information
 102 Reports by OFCOM
 ```
-```
-CHAPTER 8
-```
-```
-MEDIA LITERACY
-```
+
+#### CHAPTER 8
+#### MEDIA LITERACY
+
 ```
 103 Media literacy
 ```
-```
-PART 5
-```
-```
-APPEALS AND SUPER-COMPLAINTS
-```
-```
-CHAPTER 1
-```
-```
-APPEALS
-```
+
+### PART 5
+### APPEALS AND SUPER-COMPLAINTS
+
+#### CHAPTER 1
+#### APPEALS
+
 ```
 104 Appeals against OFCOM decisions relating to the register under section 59
 105 Appeals against OFCOM notices
 ```
-```
-CHAPTER 2
-```
-```
-SUPER-COMPLAINTS
-```
+
+#### CHAPTER 2
+#### SUPER-COMPLAINTS
+
 ```
 106 Power to make super-complaints
 107 Super-complaints: procedure
 108 Super-complaints: guidance
 ```
-```
-PART 6
-```
-```
-SECRETARY OF STATE'S FUNCTIONS IN RELATION TO REGULATED SERVICES
-```
+
+### PART 6
+### SECRETARY OF STATE'S FUNCTIONS IN RELATION TO REGULATED SERVICES
+
 ```
 Strategic priorities
 109 Statement of strategic priorities
@@ -388,12 +340,10 @@ Annual report
 Review
 115 Review
 ```
-```
-PART 7
-```
-```
-GENERAL AND FINAL PROVISIONS
-```
+
+### PART 7
+### GENERAL AND FINAL PROVISIONS
+
 ```
 Providers of regulated services
 116 “Provider” of user-to-user service or search service
