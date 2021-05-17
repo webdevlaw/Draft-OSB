@@ -36,87 +36,105 @@ is—
 
 (4) OFCOM may only describe information of the following kinds in a notice
 under subsection (1)—
+
 (a) information about the incidence of illegal content, content that is
 harmful to children and content that is harmful to adults on a user-to-
 user service or in search results (as the case may be), and about how
 many users are assumed to have encountered this by means of the
 service;
+
 (b) information about how such content is disseminated by means of a
 service;
+
 (c) information about—
-(i) in the case of a user-to-user service, how the terms of service are
+
+  (i) in the case of a user-to-user service, how the terms of service are
 applied;
-(ii) in the case of a search service, how the statements of policies
+  (ii) in the case of a search service, how the statements of policies
 and procedures mentioned in sections 21(4) and 22(4) are
 applied;
+
 (d) information about the systems and processes for users to report—
-(i) in the case of a user-to-user service, content present on the
+
+  (i) in the case of a user-to-user service, content present on the
 service which is considered to be illegal content, content that is
 harmful to children or content that is harmful to adults, or other
 content which is considered to breach the terms of service;
-(ii) in the case of a search service, content encountered in or via
+  (ii) in the case of a search service, content encountered in or via
 search results which is considered to be illegal content or
 content that is harmful to children, or other content which is
 considered to breach any statements of policies or procedures
 relating to the service which have been made publicly available
 by the provider of the service;
+
 (e) information about systems and processes which a provider uses to deal
 with illegal content, content that is harmful to children and content that
 is harmful to adults, including systems and processes for identifying
 such content, and—
-(i) in the case of a user-to-user service, taking down such content;
-(ii) in the case of a search service, minimising the risk of illegal
+
+  (i) in the case of a user-to-user service, taking down such content;
+  (ii) in the case of a search service, minimising the risk of illegal
 content or content that is harmful to children being encountered
 in or via search results;
+
 (f) information about functionalities to help users manage risks relating to
 content that is harmful to children and content that is harmful to adults;
+
 (g) information about steps that a provider is taking to comply with any
 duty set out in Part 2 (including in particular steps that are described in
 a code of practice under section 29);
+
 (h) information about ways in which a provider co-operates with
 government, regulatory or other public sector bodies in the United
 Kingdom, in particular those involved in the enforcement of the
 criminal law;
+
 (i) information about systems and processes by which a provider assesses
 the risk of harm to individuals from the presence of illegal content,
 content that is harmful to children or content that is harmful to adults
 on a user-to-user service or in search results (as the case may be)—
-(i) when a service is initially being designed or developed,
-(ii) when any further development or update to a service is being
+
+  (i) when a service is initially being designed or developed,
+  (ii) when any further development or update to a service is being
 considered, and
-(iii) while a service is in operation;
+  (iii) while a service is in operation;
+
 (j) information about systems and processes a provider has in place —
-(i) to direct users of a service to information about how they can
+  
+  (i) to direct users of a service to information about how they can
 protect themselves from harm in relation to illegal content,
 content that is harmful to children and content that is harmful
 to adults, and
-(ii) to counteract or provide support to users of a service in relation
+  (ii) to counteract or provide support to users of a service in relation
 to illegal content, content that is harmful to children or content
 that is harmful to adults present on a user-to-user service or
 encountered in or via search results (as the case may be);
+
 (k) information about steps that a provider is taking to provide a higher
 standard of protection for children than for adults;
+
 (l) information about steps that a provider is taking to improve the media
 literacy of users of a service, and an evaluation of the effectiveness of
 such steps;
+
 (m) information about any other steps that a provider is taking which relate
 to online safety matters.
 
 
 (5) When determining which information to require in a notice under subsection
 (1) in relation to a particular service, OFCOM must take into account—
+
 (a) the kinds of content in relation to which the provider of the service has
 duties under Chapter 2 or 3 of Part 2 (as the case may be);
-Part 3 — Other duties of service providers
-Chapter 1 — Transparency reports
-
-#### 46
-
 
 (b) the capacity of the provider of the service to produce information;
+
 (c) the kind of service it is;
+
 (d) the functionalities of the service;
+
 (e) the number of users of the service;
+
 (f) the proportion of users of the service who are children.
 
 
@@ -125,8 +143,10 @@ the frequency with which a transparency report must be produced.
 
 
 (7) The Secretary of State may by regulations—
+
 (a) amend subsection (4) so as to add further descriptions of information,
 or to vary or omit descriptions of information, and
+
 (b) amend subsection (5) in connection with any such amendment.
 
 
@@ -140,56 +160,62 @@ subsection (6) or (7).
 “illegal content” has the meaning given by section 41;
 “users” means United Kingdom users (see section 122).
 
-**50 Transparency reports: guidance**
-
-
 (1) OFCOM must prepare guidance on the following matters—
+
 (a) how OFCOM will determine which descriptions of information in
 section 49(4) they will require a transparency report under that section
 relating to a particular kind of relevant service, or a relevant service
 provided by a particular kind of provider, to contain, including—
-(i) the principles that OFCOM will apply in relation to each of the
+
+ (i) the principles that OFCOM will apply in relation to each of the
 factors mentioned in section 49(5), and
-(ii) the steps that OFCOM will take to engage with providers of
+ (ii) the steps that OFCOM will take to engage with providers of
 relevant services before requiring descriptions of information in
 a notice under section 49(1) in relation to a relevant service
 provided by them;
+
 (b) how information from transparency reports produced by providers of
 relevant services under section 49 will be used to produce OFCOM’s
 transparency reports (see section 100); and
+
 (c) any other matter that OFCOM consider to be relevant to the production
 and publication of transparency reports under section 49 or 100.
-
 
 (2) Before preparing guidance under this section (including revised or
 replacement guidance), OFCOM must consult such of the following as they
 consider appropriate—
+
 (a) providers of regulated user-to-user services, and of regulated search
 services,
+
 (b) persons who appear to OFCOM to represent such providers,
+
 (c) persons whom OFCOM consider to have expertise in equality issues
 and human rights, in particular—
-(i) the right to freedom of expression set out in Article 10 of the
+
+  (i) the right to freedom of expression set out in Article 10 of the
 Convention, and
 
-(ii) the right to respect for a person’s private and family life, home
+  (ii) the right to respect for a person’s private and family life, home
 and correspondence set out in Article 8 of the Convention,
+
 (d) persons who appear to OFCOM to represent the interests of children,
+
 (e) persons who appear to OFCOM to represent the interests of those with
 protected characteristics (within the meaning of Part 2 of the Equality
 Act 2010),
+
 (f) persons whom OFCOM consider to have expertise in online safety
 matters, and
+
 (g) persons whom OFCOM consider to have expertise, relevant to online
 safety matters, in the enforcement of the criminal law and the
-protection of national security,
-and OFCOM must also consult any other person whom OFCOM consider
+protection of national security, and OFCOM must also consult any other person whom OFCOM consider
 appropriate.
 
 
 (3) OFCOM must publish the guidance (and any revised or replacement
 guidance).
-
 
 (4) In exercising their functions under section 49 or 100, OFCOM must have regard
 to the guidance for the time being in force under this section.
